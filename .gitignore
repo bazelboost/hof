@@ -1,2 +1,9 @@
 build/
 doc/html/
+
+# Bazel
+/bazel-*
+/external
+/.cache
+/compile_commands.json
+user.bazelrc
